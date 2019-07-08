@@ -1,0 +1,167 @@
+[
+  {
+    "Category": "Football Cleats",
+    "ProductName": "Mercurial Superfly 7",
+    "GrapicName": "Mercurial FG",
+    "CostPrice": 360,
+    "MSRP": 300,
+    "QtyOnHand": 150,
+    "QtyOnBackOrder": 100,
+    "Description": "Building on the 360 innovation of the 6, the Nike Mercurial Superfly 7 Elite FG Boot adds a Nike Aerowtrac zone to the forefoot and a slightly stiffer chassis to help supercharge traction.",
+    "Brand": "Nike"
+  },
+  {
+    "Category": "Football Shirt",
+    "ProductName": "Nigerian 2019 Stadium Home",
+    "GrapicName": "Nigerian Jersey",
+    "CostPrice": 110,
+    "MSRP": 100,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 300,
+    "Description": "The Nigeria 2019 Stadium Home Shirt brings team pride details, such as a woven crest, together with performance elements like Nike Breathe fabric with a highly breathable construction to help you stay dry and cool.",
+    "Brand": "Nike"
+  },
+  {
+    "Category": "Tracksuit",
+    "ProductName": "Nike Dri-FIT",
+    "GrapicName": "Dri-FIT",
+    "CostPrice": 115,
+    "MSRP": 110,
+    "QtyOnHand": 80,
+    "QtyOnBackOrder": 200,
+    "Description": "The Nike Dri-FIT Men's Football Tracksuit includes a track jacket and trousers made with sweat-wicking fabric for comfortable coverage on the sidelines or during warmups.",
+    "Brand": "Nike"
+  },
+  {
+    "Category": "Running Shorts",
+    "ProductName": "Nike AeroSwift(London)",
+    "GrapicName": "AeroSwift",
+    "CostPrice": 100,
+    "MSRP": 100,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 200,
+    "Description": "With lightweight fabric, a breathable Nike Flyvent waistband and full split hem for optimal mobility, the Nike AeroSwift (London) Shorts set you up to run your fastest with minimal distractions.",
+    "Brand": "Nike"
+  },
+  {
+    "Category": "Long-Sleeve Training Top",
+    "ProductName": "Nike Pro",
+    "GrapicName": "Pro",
+    "CostPrice": 26.99,
+    "MSRP": 20,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 200,
+    "Description": "The Nike Pro Men's Long-Sleeve Training Top provides a comfortable, locked-in fit at training and on game day with stretchy, sweat-wicking fabric and mesh panels.",
+    "Brand": "Nike"
+  },
+  {
+    "Category": "Football Cleats",
+    "ProductName": "Predator 19+ Firm Ground Cleats",
+    "GrapicName": "Predator",
+    "CostPrice": 370,
+    "MSRP": 350,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 400,
+    "Description": "Predator isn't just a cleat. It's a statement that actions speak louder than words. If you can't back your chat with total control, pipe down. But if you're ready to dominate to the final whistle, keep reading. The upper on these soccer cleats is made from foot-hugging knit textile for secure lockdown. Its laceless design leaves a clean striking area while a textured coating on the forefoot grips the ball for maximum precision when passing and shooting.",
+    "Brand": "Adidas"
+  },
+  {
+    "Category": "Football Shirt",
+    "ProductName": "Real Madrid Away Jersey",
+    "GraphicName": "Madrid Jersey",
+    "CostPrice": 110,
+    "MSRP": 100,
+    "QtyOnHand": 28,
+    "QtyOnBackOrder": 80,
+    "Description": "When Real Madrid players step foot on the opposition's field, they carry a reminder of home on their backs. This away soccer jersey features colors inspired by the electric atmosphere of the Bernabéu at night. It's made with silky fabric that wicks away sweat from your skin. Designed for fans, the shirt has a slightly looser cut than the one players wear on game days.",
+    "Brand": "Adidas"
+  },
+  {
+    "Category": "Running Shoes",
+    "ProductName": "Ultraboost 19 Shoes",
+    "GraphicName": "Ultraboost",
+    "CostPrice": 250,
+    "MSRP": 230,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 90,
+    "Description": "To create the next iteration of Ultraboost, we streamlined the original silhouette to four key components. To create the next iteration of Ultraboost, we streamlined the original silhouette to four key components. The result is our most responsive shoe: Ultraboost 19.Now, a pack of new Ultraboost 19 colorways are about to hit the streets—remixing iconic Boost style with the latest running tech. Experience the performance running shoe that returns more energy than ever thanks to its new components.",
+    "Brand": "Adidas"
+  },
+  {
+    "Category": "Jacket",
+    "ProductName": "ID WND Jacket",
+    "GraphicName": "Wind Jacket",
+    "CostPrice": 115,
+    "MSRP": 110,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 10,
+    "Description": "When the weather's unpredictable, this jacket keeps you prepared. Made with a water-repellent coating, it adds protection from wind and light rain. The windbreaker has a lightweight build, so you can pack it away easily when the temperature rises.",
+    "Brand": "Adidas"
+  },
+  {
+    "Category": "Tights",
+    "ProductName": "Supernova Long Tights",
+    "GraphicName": "Supernova",
+    "CostPrice": 100,
+    "MSRP": 100,
+    "QtyOnHand": 110,
+    "QtyOnBackOrder": 10,
+    "Description": "Run comfortably in the heat in these breathable running tights. They're made of quick-drying fabric, with mesh panels to keep air circulating as you move. Pre-shaped knees give you a natural range of motion, and a waist that's a bit higher in back provides a stay-put fit.",
+    "Brand": "Adidas"
+  },
+  {
+    "Category": "Joggers",
+    "ProductName": "Hyper Sport Joggers",
+    "GraphicName": "Hyper Sport",
+    "CostPrice": 80,
+    "MSRP": 75,
+    "QtyOnHand": 90,
+    "QtyOnBackOrder": 10,
+    "Description": "Hyper Sport is for the future athletes; for those who endeavour to set a new precedent in any type of performance. To do that, it offers advanced level technology in performance wear. Every feature of the Hyper Sport Joggers has been engineered with free motion, breathability and minimalism at the fore - including laser cut details, mesh construction and low-irritation stitching - to leave you to focus on performance without distraction.",
+    "Brand": "Gymshark"
+  },
+  {
+    "Category": "Hoodies",
+    "ProductName": "Crest Hoodie",
+    "GraphicName": "Crest Hoodie",
+    "CostPrice": 50,
+    "MSRP": 45,
+    "QtyOnHand": 100,
+    "QtyOnBackOrder": 200,
+    "Description": "The Men’s Crest Hoodie is an essential layer for the workout commute or to complete any gym style. Boasting a warm cotton-blend fabric, a soft interior and a minimalist design, you can’t go wrong with Crest.",
+    "Brand": "Gymshark"
+  },
+  {
+    "Category": "Shorts",
+    "ProductName": "Ultra Shorts",
+    "GraphicName": "Ultra Shorts",
+    "CostPrice": 55,
+    "MSRP": 50,
+    "QtyOnHand": 200,
+    "QtyOnBackOrder": 10,
+    "Description": "Your heart on your sleeve and your maximum effort in your workout, the Ultra Shorts are for those who take their training seriously. With a durable build and liberating fit, these gym shorts support every movement.",
+    "Brand": "Gymshark"
+  },
+  {
+    "Category": "Bags",
+    "ProductName": "La Mont Holdall",
+    "GraphicName": "La Mont Holdall",
+    "CostPrice": 50,
+    "MSRP": 40,
+    "QtyOnHand": 120,
+    "QtyOnBackOrder": 110,
+    "Description": "Stripped of any excessive frill, the La Mont Holdall adapts to your lifestyle essentials in a minimalistic and comfortable way - in or out of the gym. Interior padded laptop sleeve ensures safety whilst removable padded shoulder strap allows for versatile carrying.Focusing on detail, its design features an external shoe compartment to keep your gear protected and organised whilst front and back zip pockets are perfect to store your go-to essentials.",
+    "Brand": "Gymshark"
+  },
+  {
+    "Category": "Shirt",
+    "ProductName": "Lightweight Seamless T-Shirt",
+    "GraphicName": "Seamless T-Shirt",
+    "CostPrice": 35,
+    "MSRP": 30,
+    "QtyOnHand": 110,
+    "QtyOnBackOrder": 90,
+    "Description": "Find the confidence to elevate your training in the Lightweight Seamless T-Shirt. A namely lightweight, polyester-nylon material, co-ordinated mesh structures for ventilation and clean-finish edges combine to unlock your highest potential. Forward-facing seam lines and the contouring details of the mesh patterns promote the profile of your physique",
+    "Brand": "Gymshark"
+  }
+]
