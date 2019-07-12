@@ -2,7 +2,7 @@
   {
     "Category": "Football Cleats",
     "ProductName": "Mercurial Superfly 7",
-    "GrapicName": "Mercurial FG",
+    "GraphicName": "Mercurial FG",
     "CostPrice": 360,
     "MSRP": 300,
     "QtyOnHand": 150,
@@ -13,7 +13,7 @@
   {
     "Category": "Football Shirt",
     "ProductName": "Nigerian 2019 Stadium Home",
-    "GrapicName": "Nigerian Jersey",
+    "GraphicName": "Nigerian Jersey",
     "CostPrice": 110,
     "MSRP": 100,
     "QtyOnHand": 10,
@@ -24,7 +24,7 @@
   {
     "Category": "Tracksuit",
     "ProductName": "Nike Dri-FIT",
-    "GrapicName": "Dri-FIT",
+    "GraphicName": "Dri-FIT",
     "CostPrice": 115,
     "MSRP": 110,
     "QtyOnHand": 80,
@@ -35,7 +35,7 @@
   {
     "Category": "Running Shorts",
     "ProductName": "Nike AeroSwift(London)",
-    "GrapicName": "AeroSwift",
+    "GraphicName": "AeroSwift",
     "CostPrice": 100,
     "MSRP": 100,
     "QtyOnHand": 120,
@@ -46,7 +46,7 @@
   {
     "Category": "Long-Sleeve Training Top",
     "ProductName": "Nike Pro",
-    "GrapicName": "Pro",
+    "GraphicName": "Pro",
     "CostPrice": 26.99,
     "MSRP": 20,
     "QtyOnHand": 120,
@@ -57,7 +57,7 @@
   {
     "Category": "Football Cleats",
     "ProductName": "Predator 19+ Firm Ground Cleats",
-    "GrapicName": "Predator",
+    "GraphicName": "Predator",
     "CostPrice": 370,
     "MSRP": 350,
     "QtyOnHand": 100,
