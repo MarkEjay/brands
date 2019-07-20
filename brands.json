@@ -2,7 +2,7 @@
   {
     "Category": "Football Cleats",
     "ProductName": "Mercurial Superfly 7",
-    "GraphicName": "Mercurial FG",
+    "GraphicName": "~/images/nike.png",
     "CostPrice": 360,
     "MSRP": 300,
     "QtyOnHand": 150,
@@ -13,7 +13,7 @@
   {
     "Category": "Football Shirt",
     "ProductName": "Nigerian 2019 Stadium Home",
-    "GraphicName": "Nigerian Jersey",
+    "GraphicName": "~/images/naija.webp",
     "CostPrice": 110,
     "MSRP": 100,
     "QtyOnHand": 10,
@@ -24,7 +24,7 @@
   {
     "Category": "Tracksuit",
     "ProductName": "Nike Dri-FIT",
-    "GraphicName": "Dri-FIT",
+    "GraphicName": "~images/dri.webp",
     "CostPrice": 115,
     "MSRP": 110,
     "QtyOnHand": 80,
@@ -35,7 +35,7 @@
   {
     "Category": "Running Shorts",
     "ProductName": "Nike AeroSwift(London)",
-    "GraphicName": "AeroSwift",
+    "GraphicName": "~images/aero.webp",
     "CostPrice": 100,
     "MSRP": 100,
     "QtyOnHand": 120,
@@ -46,7 +46,7 @@
   {
     "Category": "Long-Sleeve Training Top",
     "ProductName": "Nike Pro",
-    "GraphicName": "Pro",
+    "GraphicName": "~images/pro.webp",
     "CostPrice": 26.99,
     "MSRP": 20,
     "QtyOnHand": 120,
@@ -57,7 +57,7 @@
   {
     "Category": "Football Cleats",
     "ProductName": "Predator 19+ Firm Ground Cleats",
-    "GraphicName": "Predator",
+    "GraphicName": "~images/predator.webp",
     "CostPrice": 370,
     "MSRP": 350,
     "QtyOnHand": 100,
@@ -68,7 +68,7 @@
   {
     "Category": "Football Shirt",
     "ProductName": "Real Madrid Away Jersey",
-    "GraphicName": "Madrid Jersey",
+    "GraphicName": "~images/rm.webp",
     "CostPrice": 110,
     "MSRP": 100,
     "QtyOnHand": 28,
@@ -79,7 +79,7 @@
   {
     "Category": "Running Shoes",
     "ProductName": "Ultraboost 19 Shoes",
-    "GraphicName": "Ultraboost",
+    "GraphicName": "~images/ultra.webp",
     "CostPrice": 250,
     "MSRP": 230,
     "QtyOnHand": 30,
@@ -90,7 +90,7 @@
   {
     "Category": "Jacket",
     "ProductName": "ID WND Jacket",
-    "GraphicName": "Wind Jacket",
+    "GraphicName": "~images/wnd.webp",
     "CostPrice": 115,
     "MSRP": 110,
     "QtyOnHand": 200,
@@ -101,7 +101,7 @@
   {
     "Category": "Tights",
     "ProductName": "Supernova Long Tights",
-    "GraphicName": "Supernova",
+    "GraphicName": "~images/tights.webp",
     "CostPrice": 100,
     "MSRP": 100,
     "QtyOnHand": 110,
@@ -112,7 +112,7 @@
   {
     "Category": "Joggers",
     "ProductName": "Hyper Sport Joggers",
-    "GraphicName": "Hyper Sport",
+    "GraphicName": "~images/hyper.webp",
     "CostPrice": 80,
     "MSRP": 75,
     "QtyOnHand": 90,
@@ -123,7 +123,7 @@
   {
     "Category": "Hoodies",
     "ProductName": "Crest Hoodie",
-    "GraphicName": "Crest Hoodie",
+    "GraphicName": "~images/crest.webp",
     "CostPrice": 50,
     "MSRP": 45,
     "QtyOnHand": 100,
@@ -134,7 +134,7 @@
   {
     "Category": "Shorts",
     "ProductName": "Ultra Shorts",
-    "GraphicName": "Ultra Shorts",
+    "GraphicName": "~images/uShorts.webp",
     "CostPrice": 55,
     "MSRP": 50,
     "QtyOnHand": 200,
@@ -145,7 +145,7 @@
   {
     "Category": "Bags",
     "ProductName": "La Mont Holdall",
-    "GraphicName": "La Mont Holdall",
+    "GraphicName": "~images/la.webp",
     "CostPrice": 50,
     "MSRP": 40,
     "QtyOnHand": 120,
@@ -156,7 +156,7 @@
   {
     "Category": "Shirt",
     "ProductName": "Lightweight Seamless T-Shirt",
-    "GraphicName": "Seamless T-Shirt",
+    "GraphicName": "~images/seamless.webp",
     "CostPrice": 35,
     "MSRP": 30,
     "QtyOnHand": 110,
